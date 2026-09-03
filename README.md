@@ -1,61 +1,68 @@
-# Hi, I'm Utkarsh 👋
+# Utkarsh Yadav
 
-I build **AI systems, products, and automation** — from Android apps and developer tools to infrastructure for autonomous AI workflows.
+### AI Product Builder · AI Systems · Android · Automation
 
-My current focus is **building systems that can turn a user's goal into completed work**, rather than simply generating text.
+I build software that **turns ideas into working products** — from AI orchestration and RAG systems to Android apps, automation pipelines, and developer infrastructure.
 
-## 🧠 What I'm building
-
-### 🔥 Chirag — AI Orchestration Platform
-
-A model-agnostic AI system designed around a simple idea:
-
-> **Give Chirag a goal. Chirag figures out what needs to happen, chooses the right capabilities, executes the work, verifies it, and returns the result.**
-
-The architecture separates:
-
-`Intent → Planning → Model Routing → Tools → Verification → Memory`
-
-Models and providers are replaceable — local GPUs, NVIDIA NIM, OpenRouter, and future providers can plug into the same control plane.
-
-→ [Explore Chirag](https://github.com/uttkarshy/Chirag)
-
-## 🚀 Selected projects
-
-| Project | What it is |
-|---|---|
-| **Chirag** | AI orchestration and autonomous task execution platform |
-| **KnowledgeGPT** | Full-stack knowledge/RAG system with document processing and cited answers |
-| **Autonomous Shorts Engine** | Automation pipeline for short-form video production |
-| **AI Teacher Toolkit** | AI-assisted education and teaching tools |
-| **MVP Trade Analyst** | Trading analysis and decision-support tooling |
-| **Android Apps** | Consumer apps built and shipped through the Android ecosystem |
-
-## ⚙️ Areas I work in
-
-- Artificial Intelligence & LLM systems
-- Agentic workflows and multi-agent architecture
-- Model routing and inference infrastructure
-- Local GPU / self-hosted AI
-- RAG and document intelligence
-- Android / Kotlin development
-- Python & FastAPI
-- Docker & cloud infrastructure
-- Automation and autonomous pipelines
-- Trading technology
-
-## 🏗️ How I like to build
-
-**Build → Test → Commit → Ship → Iterate**
-
-I prefer systems where infrastructure is replaceable, state is durable, and the source of truth lives in version control rather than inside a disposable machine.
-
-## 🎯 Current mission
-
-Build useful AI systems that can **do the work**, not just talk about it.
+My current focus is **Chirag**, a model-agnostic AI orchestration platform designed to move from a user's goal to planning, execution, verification, and a finished result.
 
 ---
 
-### Let's build something interesting.
+## 🔥 Building now
 
-[GitHub](https://github.com/uttkarshy) · [Chirag](https://github.com/uttkarshy/Chirag)
+### Chirag — AI Orchestration Platform
+
+> **Give Chirag a goal. It figures out what needs to happen, chooses the right capabilities, executes the work, verifies the result, and returns it.**
+
+`Intent → Planning → Model Routing → Tools → Verification → Memory`
+
+The system is being built around replaceable compute and providers, so local GPUs and cloud inference can be swapped without rebuilding the control plane.
+
+**→ [Explore Chirag](https://github.com/uttkarshy/Chirag)**
+
+---
+
+## 🚀 Selected work
+
+| Project | Focus |
+| --- | --- |
+| **Chirag** | AI orchestration and autonomous task execution |
+| **KnowledgeGPT** | RAG, document intelligence, cited answers, full-stack AI |
+| **Autonomous Shorts Engine** | Automated short-form video production |
+| **AI Teacher Toolkit** | AI-assisted education tooling |
+| **MVP Trade Analyst** | Market analysis and trading decision-support |
+| **Android projects** | Consumer apps and product development |
+
+---
+
+## 🧩 What I work with
+
+**AI** — LLMs · RAG · agents · model routing · local inference  
+**Backend** — Python · FastAPI · Docker · PostgreSQL · APIs  
+**Mobile** — Android · Kotlin  
+**Infrastructure** — Linux · cloud GPU · containers · automation  
+**Product** — prototyping · shipping · iteration · experimentation
+
+---
+
+## 🏗️ My build philosophy
+
+**Build → Test → Commit → Ship → Iterate**
+
+I like architectures where:
+
+- the source of truth lives in Git
+- compute can be replaced without losing state
+- infrastructure is portable
+- systems are observable and testable
+- prototypes are pushed toward real, usable products
+
+---
+
+## 🎯 Current direction
+
+Building AI systems that **do the work**, not just describe how to do it.
+
+If you're interested in AI products, autonomous workflows, or practical AI infrastructure, feel free to explore the repositories below.
+
+**[GitHub](https://github.com/uttkarshy) · [Chirag](https://github.com/uttkarshy/Chirag)**
